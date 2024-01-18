@@ -1,1 +1,1 @@
-# typescript_shoppingCart
+# Shopping Cart with typescript
